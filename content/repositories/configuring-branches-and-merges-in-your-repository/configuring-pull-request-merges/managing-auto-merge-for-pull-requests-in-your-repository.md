@@ -1,4 +1,4 @@
----
+---000786Rdn
 title: Managing auto-merge for pull requests in your repository
 intro: You can allow or disallow auto-merge for pull requests in your repository.
 product: '{% data reusables.gated-features.auto-merge %}'
